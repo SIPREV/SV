@@ -4,7 +4,7 @@
 title = "Siprev Launcher"
 
 [ejs.landing]
-mediaGitHubURL = "https://github.com/SIPREV/Siprev-Launcher-"
+mediaGitHubURL = "http://siprev.byethost22.com"
 mediaXURL = "#"
 mediaInstagramURL = "#"
 mediaYouTubeURL = "#"
@@ -16,5 +16,5 @@ supportLink = "https://github.com/SIPREV/Siprev-Launcher-/issues"
 
 [ejs.welcome]
 welcomeHeader = "Hejaaaa"
-welcomeDescription = ""
-welcomeDescCTA = ""
+welcomeDescription = "Mam nadzieję ze spodoba wam się Launcher :>"
+welcomeDescCTA = "Pss jebałem się z nim jakoś kilka dni..."
