@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "productName": "Siprev Launcher",
   "description": "Modded Minecraft Launcher",
-  "author": "SIPREV (http://siprev.byethost22.com/)",
+  "author": "SIPREV",
   "license": "UNLICENSED",
-  "homepage": "http://siprev.byethost22.com",
+  "homepage": "https://github.com/SIPREV/Siprev-Launcher-",
   "bugs": {
-    "url": "http://siprev.byethost22.com//bugs"
+    "url": "https://github.com/SIPREV/Siprev-Launcher-/issues"
   },
   "private": true,
   "main": "index.js",

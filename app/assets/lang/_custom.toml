@@ -11,8 +11,8 @@ mediaYouTubeURL = "#"
 mediaDiscordURL = "https://discord.gg/BcJaVgstJp"
 
 [ejs.settings]
-sourceGithubLink = "https://github.com/SIPREV/Siprev-Launcher-"
-supportLink = "https://github.com/SIPREV/Siprev-Launcher-/issues"
+sourceGithubLink = "http://siprev.byethost22.com"
+supportLink = "http://siprev.byethost22.com/issues"
 
 [ejs.welcome]
 welcomeHeader = "Hejaaaa"
